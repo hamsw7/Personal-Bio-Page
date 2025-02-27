@@ -1,6 +1,6 @@
 # Hamoodi Bio Page
 
-A stylish bio page for Hamoodi—just another code junkie.
+A stylish bio page for Hamoodi—Code Junkie.
 
 
 
